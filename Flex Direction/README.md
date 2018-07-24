@@ -2,9 +2,9 @@
 ## Important takeaways
 #### Flex-direction
 * row (Main Axis) - left to right
-* row-revers (Main Axis) - right to left
+* row-reverse (Main Axis) - right to left
 * column (Cross Axis) - top to bottom
-* column (Cross Axis) - bottom to top 
+* column-reverse (Cross Axis) - bottom to top 
 
 ```css
 .container {
