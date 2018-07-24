@@ -1,10 +1,10 @@
 # Flexbox Directions
 ## Important takeaways
 #### Flex-direction
-* **row** (Main Axis) - left to right
-* **row-reverse** (Main Axis) - right to left
-* **column** (Cross Axis) - top to bottom
-* **column-reverse** (Cross Axis) - bottom to top 
+* **row** - left to right
+* **row-reverse** - right to left
+* **column** - top to bottom
+* **column-reverse** - bottom to top 
 
 ```css
 .container {
